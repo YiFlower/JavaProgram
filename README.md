@@ -1,2 +1,2 @@
 # JavaProgram
-Java program memory pool.
+Java program.

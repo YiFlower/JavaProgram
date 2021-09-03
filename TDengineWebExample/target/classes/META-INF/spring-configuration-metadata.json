@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "tdengine",
+      "type": "com.example.boot.utils.TDengineConfig",
+      "sourceType": "com.example.boot.utils.TDengineConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tdengine.driver",
+      "type": "java.lang.String",
+      "sourceType": "com.example.boot.utils.TDengineConfig"
+    },
+    {
+      "name": "tdengine.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.boot.utils.TDengineConfig"
+    }
+  ],
+  "hints": []
+}

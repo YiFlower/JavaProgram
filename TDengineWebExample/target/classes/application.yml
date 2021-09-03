@@ -1,0 +1,6 @@
+# TDengine Connection Config
+tdengine:
+  url: jdbc:TAOS://10.168.1.13:6030/log?user=root&password=taosdata
+  driver: com.taosdata.jdbc.TSDBDriver
+  # url: jdbc:TAOS-RS://10.168.1.13:6041/log?user=root&password=taosdata # restful
+  # driver-class-name: com.taosdata.jdbc.rs.RestfulDriver # restful
